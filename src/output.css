@@ -449,7 +449,7 @@ video {
 @font-face {
   font-family: "Tiny5", sans-serif;
 
-  src: url();
+  src: url(/dist/Tiny5/Tiny5-Regular.ttf);
 }
 
 *, ::before, ::after {
