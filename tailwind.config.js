@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        headline: ["Tiny5"],
+        headline: ["Tiny5-Regular"],
       },
     },
   },
