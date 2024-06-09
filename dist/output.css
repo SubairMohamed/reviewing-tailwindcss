@@ -563,7 +563,7 @@ video {
 .debug-screens::before {
   position: fixed;
   z-index: 2147483647;
-  bottom: 0;
+  top: 0;
   left: 0;
   padding: .3333333em .5em;
   font-size: 12px;
