@@ -564,6 +564,11 @@ video {
   margin: 2.5rem;
 }
 
+.bg-mainColor {
+  --tw-bg-opacity: 1;
+  background-color: rgb(217 143 174 / var(--tw-bg-opacity));
+}
+
 .bg-red-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
@@ -593,4 +598,9 @@ video {
 .text-rose-500 {
   --tw-text-opacity: 1;
   color: rgb(244 63 94 / var(--tw-text-opacity));
+}
+
+.text-Tcolor {
+  --tw-text-opacity: 1;
+  color: rgb(230 197 211 / var(--tw-text-opacity));
 }

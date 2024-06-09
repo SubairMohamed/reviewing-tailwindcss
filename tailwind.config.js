@@ -8,6 +8,7 @@ module.exports = {
       },
       colors: {
         mainColor: "#d98fae",
+        Tcolor: "#e6c5d3",
       },
     },
   },
