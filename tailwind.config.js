@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         header: ["Tiny5-Regular"],
       },
+      colors: {
+        mainColor: "#d98fae",
+      },
     },
   },
   plugins: [],
